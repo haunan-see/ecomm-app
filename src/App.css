@@ -2,3 +2,8 @@ body {
   font-family: 'Mulish', sans-serif;
   padding: 3% 10%;
 }
+
+a {
+  text-decoration: none;
+  color: rgb(50, 50, 50)
+}
